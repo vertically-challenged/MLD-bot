@@ -1,2 +1,2 @@
-# MLD-bot
+# myLittleDictionary_bot
  
